@@ -237,6 +237,7 @@
     <Content Include="images\Logos\gaapp.png" />
     <Content Include="images\Logos\saf.png" />
     <Content Include="images\Logos\teva.png" />
+    <Content Include="images\modal-bg.png" />
     <Content Include="images\play.png" />
     <Content Include="images\quotes\jennifer.jpg" />
     <Content Include="images\quotes\juan.jpg" />

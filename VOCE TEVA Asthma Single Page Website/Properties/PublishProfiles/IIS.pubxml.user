@@ -160,7 +160,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/VOCE TEVA Asthma Single Page Website.dll">
-      <publishTime>07/19/2017 15:21:04</publishTime>
+      <publishTime>07/20/2017 08:38:38</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>09/10/2013 17:28:38</publishTime>
@@ -264,6 +264,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="images/Logos/teva.png">
       <publishTime>07/18/2017 15:24:54</publishTime>
     </File>
+    <File Include="images/modal-bg.png">
+      <publishTime>07/20/2017 08:38:21</publishTime>
+    </File>
     <File Include="images/play.png">
       <publishTime>07/15/2017 20:54:20</publishTime>
     </File>
@@ -346,7 +349,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/18/2017 16:33:20</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>07/19/2017 23:10:26</publishTime>
+      <publishTime>07/19/2017 23:44:12</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
       <publishTime>07/19/2017 14:16:41</publishTime>
