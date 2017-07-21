@@ -160,13 +160,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/VOCE TEVA Asthma Single Page Website.dll">
-      <publishTime>07/20/2017 10:28:26</publishTime>
+      <publishTime>07/21/2017 15:57:59</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>09/10/2013 17:28:38</publishTime>
     </File>
     <File Include="Content/main.css">
-      <publishTime>07/20/2017 14:34:30</publishTime>
+      <publishTime>07/21/2017 14:27:38</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>07/15/2017 19:12:02</publishTime>
@@ -327,8 +327,20 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="packages.config">
       <publishTime>07/15/2017 19:12:25</publishTime>
     </File>
+    <File Include="pdfs/Doctor Discussion Guide.pdf">
+      <publishTime>07/20/2017 16:44:06</publishTime>
+    </File>
     <File Include="pdfs/example.pdf">
       <publishTime>07/18/2017 16:32:55</publishTime>
+    </File>
+    <File Include="pdfs/Guide to Living with SEA.pdf">
+      <publishTime>07/20/2017 16:44:06</publishTime>
+    </File>
+    <File Include="pdfs/Infographic.pdf">
+      <publishTime>07/20/2017 16:44:06</publishTime>
+    </File>
+    <File Include="pdfs/SEA Fact Sheet.pdf">
+      <publishTime>07/20/2017 16:44:06</publishTime>
     </File>
     <File Include="Scripts/ga.js">
       <publishTime>07/15/2017 20:09:00</publishTime>
@@ -348,11 +360,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="videos/small.webm">
       <publishTime>07/18/2017 16:33:20</publishTime>
     </File>
+    <File Include="videos/Teva.mp4">
+      <publishTime>07/21/2017 15:52:39</publishTime>
+    </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>07/20/2017 10:58:32</publishTime>
+      <publishTime>07/21/2017 15:49:02</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>07/20/2017 14:41:32</publishTime>
+      <publishTime>07/21/2017 15:49:38</publishTime>
     </File>
     <File Include="Views/Shared/_SendEmail.cshtml">
       <publishTime>07/18/2017 19:00:30</publishTime>

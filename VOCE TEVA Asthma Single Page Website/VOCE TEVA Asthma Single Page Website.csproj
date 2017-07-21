@@ -261,6 +261,7 @@
     <Content Include="Scripts\main.js" />
     <Content Include="Scripts\vendor.js" />
     <Content Include="videos\small.mp4" />
+    <Content Include="videos\Teva.mp4" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -295,6 +296,10 @@
     <Content Include="fonts\ITCAvantGardeStd-Md.woff" />
     <Content Include="fonts\ITCAvantGardeStd-Md.woff2" />
     <Content Include="pdfs\example.pdf" />
+    <Content Include="pdfs\Doctor Discussion Guide.pdf" />
+    <Content Include="pdfs\Guide to Living with SEA.pdf" />
+    <Content Include="pdfs\Infographic.pdf" />
+    <Content Include="pdfs\SEA Fact Sheet.pdf" />
     <None Include="Project_Readme.html" />
     <Content Include="Views\Shared\_SendEmail.cshtml" />
     <None Include="Properties\PublishProfiles\IIS.pubxml" />
